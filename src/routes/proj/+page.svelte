@@ -1,7 +1,3 @@
-<script>
-	import west from '$lib/assets/img/Capa-West.jpg';
-</script>
-
 <div class="content divproj">
 	<h1>projetos</h1>
 
