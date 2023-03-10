@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+	<script src="https://kit.fontawesome.com/7c202d9d24.js" crossorigin="anonymous"></script>
+	<meta name="viewport" content="width=device-width" />
+	%sveltekit.head%
+	<style>
+		* {
+			font-family: Noto Sans Mono, monospace;
+			background-color: #ffe19c;
+			color: #3a3042;
+		}
+
+		body {
+			margin: 0;
+		}
+
+		a {
+			text-decoration-style: dotted;
+		}
+
+		.content {
+			display: flex;
+			flex-direction: column;
+			text-align: justify;
+			padding: 20pt;
+			height: 100vh;
+		}
+	</style>
+</head>
+
+<body data-sveltekit-preload-data="hover">
+	<div style="display: contents">%sveltekit.body%</div>
+</body>
+
+</html>
