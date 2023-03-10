@@ -1,6 +1,9 @@
+<script>
+  import cv from '$lib/assets/cv.pdf';
+</script>
 <div class="content">
 	<div class="link">
-		<p>versão em <a href="todo">pdf</a>; <a href="todo">lattes</a></p>
+		<p>versão em <a href={cv}>pdf</a>; <a href="http://lattes.cnpq.br/5066487949763585">lattes</a></p>
 	</div>
 	<div class="cv">
 		<h2>titulações</h2>
