@@ -142,4 +142,9 @@
 	.divproj {
 		padding-bottom: 30rem;
 	}
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 </style>
