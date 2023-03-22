@@ -18,7 +18,7 @@
 					<ul>
 						<li>
 							Semântica e pragmática da atração de caso em Grego antigo (2021-presente)
-							<pre>financiamento fapesp, <a
+							<pre>fapesp, <a
 									href="https://bv.fapesp.br/pt/bolsas/198957/semantica-e-pragmatica-da-atracao-de-caso-em-grego-antigo/"
 									>21/06027-4</a
 								></pre>
@@ -28,7 +28,7 @@
 							Atração de caso em orações infinitivas em grego antigo: estudo de caso em Heródoto,
 							Platão e Xenofonte (2017-2020)
 
-							<pre>financiamento fapesp, <a
+							<pre>fapesp, <a
 									href="https://bv.fapesp.br/pt/bolsas/176983/atracao-de-caso-em-oracoes-infinitivas-em-grego-antigo-estudo-de-caso-em-herodoto-platao-e-xenofon/"
 									>17/23334-2</a
 								></pre>
@@ -125,26 +125,35 @@
 </div>
 
 <style>
+	li {
+		max-width: 100%;
+		text-align: justify;
+	}
 	pre {
-		font-size: 10pt;
+		font-size: .8rem;
 		padding-top: 0pt;
 		margin-top: 5pt;
+		max-width: 100%;
 	}
 	.projetos {
-		font-size: 14pt;
+		font-size: 1rem;
 		list-style-type: lower-greek;
 		font-weight: bold;
+		max-width: 100%;
 	}
 	.nota {
-		font-size: 12pt;
+		font-size: .9rem;
 		font-weight: normal;
+		max-width: 100%;
 	}
 	.divproj {
 		padding-bottom: 30rem;
+		max-width: 100%;
 	}
 	img {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
+		max-width: 75%;
 	}
 </style>
