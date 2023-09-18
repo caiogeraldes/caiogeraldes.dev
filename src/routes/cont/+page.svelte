@@ -15,7 +15,7 @@
 		</li>
 		<li>
 			<i class="fa-brands fa-orcid" />
-			<a href="https://orcid.org/0000-0001-5808-1227"> orcid</a>
+			<a href="https://orcid.org/0000-0001-5808-1227">orcid</a>
 		</li>
 		<li>
 			<i class="fa-brands fa-github" />

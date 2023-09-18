@@ -37,12 +37,81 @@
 				</li>
 			</ul>
 		</li>
+		<li>diagramação</li>
+		<ul>
+			<li class="nota">
+				Diagramação em parceria com Victoria Oswaldino do miolo da primeira edição do <a href="https://kotter.com.br/loja/momo-rei/">Momo Rei</a> de Adriano Scandolara, publicado pela editora Kotter Editorial (2023).
+				<figure class="center">
+					<img src="/img/momorei.png" alt="Folha de abertura do Momo Rei de Adriano Scandolara" />
+					<figcaption class="center">Folha de abertura do Momo Rei de Adriano Scandolara</figcaption>
+				</figure>
+			</li>
+			<li class="nota">
+				Diagramação do miolo e capa da primeira edição da História da Filologia de Wilamowitz-Moellendorff traduzido por Thiago Venturott para a Editora Mnēma (2023, no prelo). Criação de índice onomástico.
+				<figure class="center">
+					<img src="/img/wila.jpg" alt="História da Filologia">
+						<figcaption class="center">História da Filologia - Wilamowitz-Moellendorff</figcaption>
+				</figure>
+			</li>
+		</ul>
+		<li>revisão e tradução</li>
+		<ul>
+			<li class="nota">
+				Revisão técnica de parte da segunda edição do <a
+					href="https://editoramnema.com.br/livro/dicionario-grego-portugues/"
+					>Dicionário Grego-Português, Ateliê Editorial-Mnēma, 2022</a
+				>.
+
+				<figure class="center">
+					<img src="/img/DGP.jpg" alt="Dicionário Grego-Português" />
+
+					<figcaption class="center">Dicionário Grego-Português</figcaption>
+				</figure>
+			</li>
+			<li class="nota">
+				Indexação e tradução, revisão técnica e diagramação de partes partes de
+				<a href="https://editoramnema.com.br/livro/poesia-e-mito-indo-europeus-copia/"
+					>West, M. Poesia e Mito Indo-europeus, Mnēma, 2022</a
+				>.
+				<figure>
+					<img alt="West, M. Poesia e Mito Indo-europeus" src="/img/Capa-West.jpg" />
+					<figcaption class="center">West, M. Poesia e Mito Indo-europeus</figcaption>
+				</figure>
+			</li>
+		</ul>
+		<li>
+			pieoffice
+
+			<p class="nota">
+				Conversores da "família" <code>pieoffice</code> para facilitar a escrita de línguas
+				indo-europeias antigas em seus alfabetos autóctones.
+			</p>
+			<ul class="nota">
+				<li>
+					<a href="https://pieoffice.netlify.app/">Versão webapp</a>, recomenda-se usar o Firefox
+					como navegador para melhores resultados.
+				</li>
+				<li>
+					Versão em JS disponível em meu
+					<a href="https://github.com/caiogeraldes/pieoffice-js">github</a>.
+				</li>
+				<li>
+					A versão em Python tem sido incorporada aos poucos ao <code>cltk</code>, mas vocês podem
+					acessar
+					<a href="https://github.com/caiogeraldes/pieoffice">aqui</a>.
+				</li>
+				<li>
+					Além da versão em JS, tenho uma série de <code>keybindings</code> pra digitar em alfabetos
+					de línguas indo-europeias, o
+					<a href="https://github.com/caiogeraldes/pievim"><code>pievim</code></a>.
+				</li>
+				<br />
+			</ul>
+			<br />
+		</li>
 		<li>
 			LaTeX
 			<p class="nota">
-				Adoro diagramar coisas em LaTeX e se você quiser uma formatação chique do seu TCC,
-				Dissertação ou Tese, aqui vão dois exemplos que já fiz. Faço índices e glossários também, se
-				quiser um pouco mais de elegância :).
 			</p>
 			<ul>
 				<li class="nota">
@@ -64,61 +133,6 @@
 					>.
 				</li>
 			</ul>
-		</li>
-		<li>revisão e tradução</li>
-		<ul>
-			<li class="nota">
-				Revisão técnica de parte da segunda edição do <a
-					href="https://editoramnema.com.br/livro/dicionario-grego-portugues/"
-					>Dicionário Grego-Português, Ateliê Editorial-Mnēma, 2022</a
-				>.
-
-				<figure class="center">
-					<img src="/img/DGP.jpg" alt="Dicionário Grego-Português" />
-
-					<figcaption class="center">Dicionário Grego-Português</figcaption>
-				</figure>
-			</li>
-			<li class="nota">
-				Indexação e tradução, revisão técnica e diagramação de partes partes de
-				<a href="https://editoramnema.com.br/livro/poesia-e-mito-indo-europeus-copia/"
-					>West, M. Poesia e Mito Indoeuropeu, Mnēma, 2022</a
-				>.
-				<figure>
-					<img alt="West, M. Poesia e Mito Indoeuropeu" src="/img/Capa-West.jpg" />
-					<figcaption class="center">West, M. Poesia e Mito Indoeuropeu</figcaption>
-				</figure>
-			</li>
-		</ul>
-		<li>
-			pieoffice
-
-			<p class="nota">
-				Conversores da &ldquo;família&rdquo; <code>pieoffice</code> para facilitar a escrita de línguas
-				indoeuropeias antigas em seus alfabetos autóctones.
-			</p>
-			<ul class="nota">
-				<li>
-					<a href="https://pieoffice.netlify.app/">Versão webapp</a>, recomenda-se usar o Firefox
-					como navegador para melhores resultados.
-				</li>
-				<li>
-					Versão em JS disponível em meu
-					<a href="https://github.com/caiogeraldes/pieoffice-js">github</a>.
-				</li>
-				<li>
-					A versão em Python tem sido incorporada aos poucos ao <code>cltk</code>, mas vocês podem
-					acessar
-					<a href="https://github.com/caiogeraldes/pieoffice">aqui</a>.
-				</li>
-				<li>
-					Além da versão em JS, tenho uma série de<code>keybindings</code> pra digitar em alfabetos
-					de línguas indoeuropeias, o
-					<a href="https://github.com/caiogeraldes/pievim"><code>pievim</code></a>.
-				</li>
-				<br />
-			</ul>
-			<br />
 		</li>
 	</ol>
 	<br />
@@ -154,6 +168,10 @@
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		max-width: 75%;
+		max-width: 50%;
+	}
+	.center {
+		margin-top: 10px;
+		text-align: center;
 	}
 </style>
